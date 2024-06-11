@@ -20,7 +20,7 @@
 
 | Installation | Instalación |
 |---------|---------|
-| Clone the repository: `git clone https://github.com/usuario/literalura.git` | Clonar el repositorio: `git clone https://github.com/usuario/literalura.git`|
+| Clone the repository: `git clone https://github.com/josuereyes16/biblioteca-literatura.git` | Clonar el repositorio: `git clone https://github.com/josuereyes16/biblioteca-literatura.git`|
 | Navigate to the project directory: `cd literalura` | Navegue al directorio del proyecto: `cd literalura`|
 |Create a project in Spring Initializr: | Crear un proyecto en Spring Initializr:
 | `Visit start.spring.io.` <br> `Select Maven, Java, and the latest version of Spring Boot.` <br> `Add dependencies: Spring Data JPA and PostgreSQL Driver.` | `Visite start.spring.io.` <br> `Seleccione Maven, Java y la última versión de Spring Boot.` <br> `Agregue dependencias: Spring Data JPA y el controlador PostgreSQL.`
