@@ -7,13 +7,13 @@
 
 ---
 
-| Features | Características |
-|---------|---------|
-| - Search book by title: Allows searching for books by title in the API and registering them in the database. | - Buscar libro por título: Permite buscar libros por su título en la API y registrarlos en la base de datos.
-| - List registered books: Displays all books registered in the database. | - Listar libros registrados: Muestra todos los libros registrados en la base de datos.
-| - List registered authors: Displays all authors registered in the database. | - Listar autores registrados: Muestra todos los autores registrados en la base de datos.
-| - List living authors in a specific year: Allows filtering authors who were alive in a specific year. | - Listar autores vivos en un año específico: Permite filtrar autores que estaban vivos en un año determinado.
-| - List books by language: Classifies registered books by language. | - Listar libros por idioma: Clasifica los libros registrados por idioma.
+| Features                                                                                                     | Características                                                                                               |
+|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| - Search book by title: Allows searching for books by title in the API and registering them in the database. | - Buscar libro por título: Permite buscar libros por su título en la API y registrarlos en la base de datos.  
+| - List registered books: Displays all books registered in the database.                                      | - Listar libros registrados: Muestra todos los libros registrados en la base de datos.                        
+| - List registered authors: Displays all authors registered in the database.                                  | - Listar autores registrados: Muestra todos los autores registrados en la base de datos.                      
+| - List living authors in a specific year: Allows filtering authors who were alive in a specific year.        | - Listar autores vivos en un año específico: Permite filtrar autores que estaban vivos en un año determinado. 
+| - List books by language: Classifies registered books by language.                                           | - Listar libros por idioma: Clasifica los libros registrados por idioma.                                      
 
 
 ---
